@@ -8,5 +8,5 @@
  __npm install__
 
  #### 2) Após a instalação executa o seguinte comando
- * __yarn dev
- * __npm dev
+ * __yarn dev__
+ * __npm dev__
