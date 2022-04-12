@@ -1,4 +1,4 @@
-# lista-repositorio-github
+💻# lista-repositorio-github
  __Exibindo uma lista de repositório com React e Typescript__
 ---
  #### 1) Para baixar o repositório, digite o seguinte comando: 
