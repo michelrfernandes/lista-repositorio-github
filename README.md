@@ -1,12 +1,12 @@
 # lista-repositorio-github
- *Exibindo uma lista de repositório com React e Typescript*
+ __Exibindo uma lista de repositório com React e Typescript__
 ---
  #### 1) Baixar o repositório e digite o seguinte comando: 
- *git clone (a url do repositorio)*
+ __git clone (a url do repositorio)__
  
  #### 2) Adicionar os pacotes usando o comando: 
- *npm install*
+ __npm install__
 
  #### 2) Após a instalação executa o seguinte comando
- 1. yarn dev
- 1. npm dev
+ * __yarn dev
+ * __npm dev
