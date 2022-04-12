@@ -5,7 +5,7 @@
  __git clone https://github.com/michelrfernandes/lista-repositorio-github.git__
  
  #### 2) Adicionar os pacotes digitando o comando: 
- __npm install__
+ * __npm install__
 
  #### 2) Após a instalação executa o seguinte comando:
  * __yarn dev__
