@@ -2,7 +2,7 @@
  __Exibindo uma lista de repositório com React e Typescript__
 ---
  #### 1) Baixar o repositório e digite o seguinte comando: 
- __git clone (a url do repositorio)__
+ __git clone https://github.com/michelrfernandes/lista-repositorio-github.git__
  
  #### 2) Adicionar os pacotes usando o comando: 
  __npm install__
